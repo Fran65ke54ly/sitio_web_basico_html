@@ -1,0 +1,164 @@
+* {margin: 0; padding: 0;}
+
+html {background-color: dodgerblue;}
+
+header {background-image: url(blogjpg.jpg); width: 70%; margin-left: 15%; border-radius: 15px; height: 30%; margin-top: 2%;}
+
+h1 {color: white; margin-left: 1%;}
+
+#blog {float: left; margin-top: 10% }
+
+header input {float: left; margin-left: 73%; margin-top: -3%;}
+
+label {float: left; margin-left: 93%; margin-top: -3%;}
+
+#divi {width: 70%; margin-left: 15%; margin-top: -5%;}
+
+#buscando {float: right; margin-right: 35px;}
+
+/*.................menu...............*/
+
+#menu { 
+ background: #002283; 
+ margin: 30px 0px; 
+ padding: 10px 0px 0px 0px;
+ height: 28px; 
+} 
+#menu ul { 
+ margin: 0px 10px; 
+ padding: 0; 
+ list-style:none; 
+} 
+#menu ul li { 
+ margin: 0 5px 0 0; 
+ padding: 0; 
+ float:left; 
+} 
+#menu ul li a { 
+ display: block; 
+ position: relative; 
+ padding: 4.5px 15px; 
+ border: 0; 
+ background: #002FB6;
+ color: #B5C4E3; 
+ font-weight: bold; 
+ text-decoration: none; 
+ cursor: pointer; 
+} 
+#menu ul li a:hover { 
+ background: white; color: #FFB94D; 
+} 
+#menu ul li.seleccionado a { 
+ background: skyblue; 
+color: blue;}
+
+#menu ul #mejorar a { 
+ background: #fff; 
+ color: #FFB94D; 
+}
+
+/*................contenido..................*/
+
+#contenido {background-color: #fff; width: 70%; height: 127%; margin-left: 15%; margin-top: -31px; border-radius: 10px; margin-bottom: 2%;}
+
+#contenedor-brt {float: left; background-color: #C9E0FF; width: 100%; border-radius: 10px;}
+
+#contenedor-brt  h1 {font-size: 30px; margin-left: 2%; color: black; font-weight: 100;}
+
+#empresa {background-color: #DEECFF;  float: left; width: 68%; border-radius: 10px; margin-left: 1%; margin-top: 1%;}
+
+#empresa2 {background-color: #DEECFF; float: left; width: 68%; border-radius: 10px; margin-left: 1%; margin-top: 1%;} 
+
+#empresa3 {background-color: #DEECFF; float: left; width: 68%; border-radius: 10px; margin-left: 1%; margin-top: 1%;} 
+
+#empresa4 {background-color: #DEECFF; float: left; width: 68%; border-radius: 10px; margin-left: 1%; margin-top: 1%;}
+
+#contenedor-cha {float: left; width: 100%; margin-top: 4px;}
+
+#contenedor-cha p img {margin-right: 6px;}
+
+#contenedor-cha p {color: #003151;}
+
+#comentario {float: left; margin-left: 2%;}
+
+#contenedor-cha #comentario:hover {color: #FFBE45;}
+
+#parrafo1 {float: left; width: 100%; color: blue; margin-top: 2%;}
+
+#elance {color: blue; margin-top: 33%;}
+
+#contenedor-r {background-color: antiquewhite; width: 65%;}
+
+#contenedor-a {background-color: antiquewhite; width: 65%;}
+
+#contenedor-b {background-color: antiquewhite; width: 65%;}
+
+
+/*..............Listas............*/
+
+#personal {float: right; background-color: #A1DAFF; width: 29%; margin-top: -556px; height: 97.3%; border-radius: 10px; margin-right: 1%;}
+
+#derecha {float: right;  background-color: #A1DAFF; width: 100%; border-radius: 15px; height: 26%;}
+
+#sobremi {float: right; background-color: #56bae7; width: 97.1%; padding: 4px; margin-top: 3%;}
+
+#estudiar {float: right; position: absolute; margin-top: 4%}
+
+#nomb {float: left;}
+
+#informacion {height: 53%; margin-left: 39%; margin-top: 25%;}
+
+
+#primera-lista {float: right; background-color: #A1DAFF; float: right; list-style: none; width: 100%; text-decoration: none; margin-top: %;}
+
+#primera-lista ul a {text-decoration: none; display: block; padding: 5px;}
+
+#primera-lista a:hover {background-color: #037e8c; display: block;}
+
+#primera-lista ul  p {
+    display: block;
+    float: none;
+    border-bottom: 1px solid rgba(255,255,255,0.3);    
+}
+
+#categoria {float: rightblock; background-color: #56bae7; width: 97.1%; padding: 4px; margin-top: 3%;}
+
+#segunda-lista {float: right; background-color: #A1DAFF; float: right; list-style: none; width: 100%;}
+
+#segunda-lista a:hover {background-color: #037e8c;}
+
+#segunda-lista p a {text-decoration: none; display: block; padding: 5px;}
+
+#segunda-lista ul  p {
+    display: block;
+    float: none;
+    border-bottom: 1px solid rgba(255,255,255,0.3);    
+}
+
+#tercera-lista {float: right; background-color: #A1DAFF; float: right; list-style: none; width: 100%;}
+
+#tercera-lista a:hover {background-color: #037e8c;}
+
+#tercera-lista p a {text-decoration: none; display: block; padding: 5px;}
+
+#tercera-lista ul  p {
+    display: block;
+    float: none;
+    border-bottom: 1px solid rgba(255,255,255,0.3);    
+}
+
+
+
+#piedelapagina {float: left; width: 68%; background-color: #DEECFF; margin-left: 1%; border-radius: 5px; margin-top: 1%;}
+
+
+
+
+
+
+
+
+
+
+
+
